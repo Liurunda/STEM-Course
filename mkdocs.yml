@@ -1,47 +1,31 @@
-site_name: JumpIntoDSA
+site_name: STEM教育理论与实践 课程补充材料
 
 theme:
   name: material
   palette:
-    primary: deep purple
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb  
+        name: Switch to dark mode
+      primary: teal
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: brown
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+    
   features:
     - navigation.instant
     - navigation.indexes
     - content.code.annotate
 
 nav: 
-  - 环境搭建: 
-    - Environment/index.md
-    - Environment/wsl_error.md
-    - Environment/gdb.md
-    - Environment/applet.md
-  - C语言专题讲解: 
-    - C/index.md
-    - C/recursion.md
-    - C/pointer.md
-    - C/cmdarg.md
-  - C++快速入门: 
-    - C++/index.md
-    - 类和对象: C++/Class&Object.md
-    - 构造析构: C++/Cons&Dest.md
-    - 继承: C++/Inheritance.md
-    - 多态: C++/Polymorphism.md
-    - 运算符重载: C++/Overloading.md
-    - 模板简介: C++/Templates.md
-    - 内存分配: C++/Memory.md
-    - 引用: C++/Reference.md
-  - 数学基础: 
-    - Math/index.md
-    - 集合: Math/set.md
-  - 如何自学知识点: 
-    - DIY/index.md
-    - DIY/more_PA.md
-  - 调试辅导课: 
-    - Debugging/index.md
-  - 补充讲解:
-    - Supplement/index.md
-
-
+  - 拓展书目导读: 
+    - 拓展书目导读/index.md
+    - 拓展书目导读/mindstorm.md
+    
 markdown_extensions:
   - admonition
   - pymdownx.details

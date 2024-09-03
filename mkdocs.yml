@@ -22,9 +22,11 @@ theme:
     - content.code.annotate
 
 nav: 
+  - index.md
   - 拓展书目导读: 
     - 拓展书目导读/index.md
     - 拓展书目导读/mindstorm.md
+    - 拓展书目导读/HPS.md
     
 markdown_extensions:
   - admonition

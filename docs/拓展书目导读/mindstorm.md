@@ -1,6 +1,6 @@
 # Mindstorm: children, computers and powerful ideas
 
-作者: Seymour Papert
+作者: Seymour Papert, MIT Media Lab,  发明了著名的少儿编程语言LOGO语言。
 
 年代：1980年
 

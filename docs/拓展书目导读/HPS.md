@@ -1,6 +1,7 @@
 # Science Teaching: The Contribution of History and Philosophy of Science
 
-作者： Michael Robert Matthews, 澳大利亚新南威尔士大学(UNSW)教育学院
+作者： Michael Robert Matthews, 澳大利亚新南威尔士大学(UNSW)教育学院。这位作者近年还写了一本有趣的书: Feng Shui: Teaching About Science and Pseudoscience
+
 
 年代：1994年
 

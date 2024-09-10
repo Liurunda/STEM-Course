@@ -27,6 +27,7 @@ nav:
     - 拓展书目导读/index.md
     - 拓展书目导读/mindstorm.md
     - 拓展书目导读/HPS.md
+    - 拓展书目导读/cmap.md
     
 markdown_extensions:
   - admonition

@@ -2,6 +2,7 @@
 
 作者： Michael Robert Matthews, 澳大利亚新南威尔士大学(UNSW)教育学院。这位作者近年还写了一本有趣的书: Feng Shui: Teaching About Science and Pseudoscience
 
+这本书回应了一个问题: "文科能对STEM教育有什么贡献?"
 
 年代：1994年
 

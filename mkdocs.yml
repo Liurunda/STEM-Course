@@ -28,6 +28,8 @@ nav:
     - 拓展书目导读/mindstorm.md
     - 拓展书目导读/HPS.md
     - 拓展书目导读/cmap.md
+    - 拓展书目导读/feynman.md
+    - 拓展书目导读/failure.md
     
 markdown_extensions:
   - admonition

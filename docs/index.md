@@ -9,3 +9,14 @@
 
 [STEM教育2035行动计划](https://stem.zjnu.edu.cn/2024/0803/c16067a473552/page.htm)
 
+# 分节的课程阅读材料
+
+第一节 概论
+
+《世界是平的》（第八章 "静悄悄的危机"）
+
+第二节 
+ 
+   1. McComas, W.F. (2014). STEM: Science, Technology, Engineering, and Mathematics. In: McComas, W.F. (eds) The Language of Science Education.
+ 
+   2. 王建华.STEM教育的全球发展[N].光明日报,2024-01-18(014)

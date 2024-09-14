@@ -6,14 +6,30 @@
 
 年代：1994年
 
-摘录：
-One part of this contribution by HPS is to connect topics in particular scientific disciplines, to connect the disciplines of science with each other, to connect the sciences generally with mathematics, philosophy, literature,
-psychology, history, technology, commerce and theology; and finally, to display the interconnections of science and culture – the arts, ethics, religion, politics – more broadly. Science has developed in conjunction with other
-disciplines; there has been mutual interdependence. It has also developed, and 
-is practised, within a broader cultural and social milieu. These interconnections
-and interdependencies can be appropriately explored in science programmes,
-from elementary school through to graduate study. The result is far more
-satisfying for students than the unconnected topics that constitute most
-programmes of school and university science. Courses in the sciences are too
-often, as one student remarked, ‘forced marches through unknown country
-without time to look sideways’.
+### 摘录
+
+Chapter 5
+
+At different times and places, there have been appeals to the following reasons
+for including a historical component in science programmes:
+
+- History promotes the better comprehension of scientific concepts and
+methods. (历史帮助学生更好理解科学概念和方法)
+
+- Historical approaches connect the development of individual thinking
+with the development of scientific ideas.(历史将个人的思维发展和人类科学认识的发展过程联系在一起)
+
+- History of science is intrinsically worthwhile. Important episodes in the
+history of science and culture should be familiar to all students. (科学史本身就值得了解)
+
+- History is necessary to understand the nature of science. (不了解科学史, 就不了解科学的本质)
+
+- History, by examing the life and times of individual scientists, humanises
+the subject matter of science, making it less abstract and more engaging
+for students. (了解科学家的生平和时代，让抽象的科学更有人味)
+
+- History allows connections to be made within topics and disciplines of
+science, as well as with other academic disciplines; history displays the
+integrative and interdependent nature of human achievements. (科学史展现了学科领域之间的联系, 说明人类智力的成就并非各自孤立)
+
+
